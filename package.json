@@ -1,0 +1,13 @@
+{
+  "name": "blockchain",
+  "description": "Blockchain implemented in NodeJS",
+  "license": "MIT",
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/Innovic-io/js-blockchain"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "object-hash": "1.1.8"
+  }
+}
