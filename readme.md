@@ -1,8 +1,8 @@
 # BlockChain written in TypeScript
 
-validate block chain:
+Run tests on chain:
 
-``bash
+``
 npm run test
 ``
 
