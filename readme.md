@@ -1,6 +1,12 @@
+# BlockChain written in TypeScript
 
-# WORK IN PROGRESS
+validate block chain:
 
-## Tutorial
+``bash
+npm run test
+``
 
+## Resources
+
+- https://github.com/lhartikk/naivechain/blob/master/main.js
 - https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
