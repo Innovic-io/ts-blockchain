@@ -1,5 +1,8 @@
 # BlockChain written in TypeScript
 
+- [Source code](./src/blockchian.ts)
+- [Tests](./src/blockchain.spec.ts)
+
 Run tests on chain:
 
 ``
